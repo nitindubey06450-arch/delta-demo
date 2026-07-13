@@ -1,2 +1,2 @@
 # delta-demo
-this is demo of git &amp; gitub class
+this is demo of git &amp; gitub class.
